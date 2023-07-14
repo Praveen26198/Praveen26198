@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen26198
-- 👀 I’m interested in GAMIMG
+- 👀 I’m interested in GAMING
 - 🌱 I’m currently learning UNITY 3D 
 - 💞️ I’m looking to collaborate on VR
 - 📫 How to reach me ...
